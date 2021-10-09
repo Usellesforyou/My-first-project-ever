@@ -1,0 +1,25 @@
+body{ 
+    background-image: url(https://v-georgia.com/wp-content/uploads/2016/05/zakat_batumi1-858x503.jpg);
+   background-size: 100%;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+img{border: goldenrod;
+    border-style: dotted;
+    border-radius: 50%;
+    background-color: #3c505e;}
+    h1{color: rgb(206, 203, 174);
+    background-color: rgb(163, 156, 137);}
+    p{background-color: rgb(211, 161, 22);
+        color: rgb(138, 197, 224);}
+        h2{color: rgb(233, 199, 10);
+    }
+        ul{list-style-type: lower-latin ;}
+        h3 {background-color: maroon;}
+ol{list-style-type: decimal-leading-zero;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg);
+background-size: 6%;}     
+hr{
+    border: dotted;
+}   
+a{color: aquamarine;}
+    

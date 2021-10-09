@@ -1,0 +1,11 @@
+#left{
+    text-align: center;
+    width: 500px;
+}
+#right {text-align: center;
+width: 500px;}
+#button {color: blue;
+background-color: cadetblue;
+text-decoration-line: none;
+box-shadow: 2px 2px 15px 8px blue;}
+h6{font-size: 25px;}

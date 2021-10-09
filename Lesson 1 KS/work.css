@@ -1,0 +1,14 @@
+body{
+    background-image: url(./Flag_of_Ukraine.svg);
+    background-size: 80%;
+}
+h1{ 
+    color: aqua;
+}
+p{
+    color: aquamarine;
+}
+ol{
+    color: cyan;
+}
+a {color: darkcyan;}

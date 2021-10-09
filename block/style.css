@@ -1,0 +1,51 @@
+div{
+    box-sizing: border-box;
+
+}
+.ca1 {
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+border: 80px solid burlywood;}
+.ca2{
+
+        background-color: rgb(47, 26, 170);
+        text-align: center;
+       height: 400px;
+        float: left;
+        width: 50%;
+        border: 150px solid rgb(47, 26, 170);
+
+    }
+.ca3{
+    background-color: chartreuse;
+    text-align: center;
+    float: right;
+    width: 50%;
+    height: 400px;
+    border: 150px solid chartreuse;
+    
+}
+.ca4 {
+    float: left;
+    background-color: rgb(207, 116, 88);
+    height: 380px;width: 33.3%;
+    text-align: center;
+    border: 280px solid rgb(207, 116, 88);
+}
+.ca5 {
+    float:left;
+    background-color: rgb(233, 169, 31);
+    height: 380px;
+    text-align: center;
+    width: 33.3%;
+    border: 280px solid rgb(233, 169, 31);
+}
+.ca6 {
+    float: left;
+    background-color: rgb(168, 110, 226);
+    width: 33.4%;
+    height: 380px;
+    border: 280px solid rgb(168, 110, 226);
+}
+
